@@ -117,7 +117,7 @@ Las entradas se pueden agrupar por categoría (ej. "Trabajo", "Finanzas", "Gener
 - `Ctrl+L` — bloquear el vault
 - `Esc` — cerrar cualquier ventana modal (nueva entrada, seguridad, confirmaciones, verificación 2FA)
 
-## Pendientes opcionales (si querés seguir puliendo)
+## Pendientes opcionales 
 
 - Exportación/importación en formato estándar (para migrar desde/hacia otros gestores)
 - Sub-categorías o etiquetas múltiples por entrada (hoy es una categoría por entrada)
