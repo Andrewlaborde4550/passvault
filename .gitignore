@@ -1,0 +1,38 @@
+@"
+# Vault y datos sensibles — NUNCA subir esto, ni siquiera a un repo privado
+vault.enc
+vault.enc.*
+*.enc
+*.enc.bak
+*.enc.lockout
+*.enc.audit.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs y temporales
+*.log
+salida.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+"@ | Out-File -FilePath .gitignore -Encoding utf8
